@@ -13,3 +13,5 @@ Welcome to my profile! Currently i'm working at [Evaly.com.bd](https://evaly.com
 
 
 ### Show some ❤️ by starring some of the repositories!
+
+<a href="https://app.daily.dev/shipu"><img src="https://api.daily.dev/devcards/57886d245cac481ea8b90837a621ad16.png?r=n5j" width="400" alt="Shipu Ahamed's Dev Card"/></a>
