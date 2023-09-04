@@ -1,3 +1,5 @@
+[![twitter badge](https://img.shields.io/badge/twitter-@shipu_ahamed-orange?style=for-the-badge&logo=twitter)](https://twitter.com/shipu_ahamed)
+
 # Hi I'm Shipu 👋
 Welcome to my profile! Currently i'm working at [10 Minute School](https://10minuteschool.com) as a General Manager, Lead Backend Engineer. Thanks for visiting and I'd love to connect!
 <!--Website -->
