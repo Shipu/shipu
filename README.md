@@ -12,8 +12,3 @@ Welcome to my profile! Currently i'm working at [10 Minute School](https://10min
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shipu.shipu)
 
 ![Shipu's github stats](https://github-readme-stats.vercel.app/api?username=shipu&show_icons=true)
-
-
-### Show some ❤️ by starring some of the repositories!
-
-<a href="https://app.daily.dev/shipu"><img src="https://api.daily.dev/devcards/57886d245cac481ea8b90837a621ad16.png?r=n5j" width="400" alt="Shipu Ahamed's Dev Card"/></a>
